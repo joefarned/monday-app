@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/monday-app/static/css/main.4fd7d449.chunk.css",
-    "main.js": "/monday-app/static/js/main.bb3d0511.chunk.js",
-    "main.js.map": "/monday-app/static/js/main.bb3d0511.chunk.js.map",
+    "main.js": "/monday-app/static/js/main.b1bfe153.chunk.js",
+    "main.js.map": "/monday-app/static/js/main.b1bfe153.chunk.js.map",
     "runtime-main.js": "/monday-app/static/js/runtime-main.8e015eaa.js",
     "runtime-main.js.map": "/monday-app/static/js/runtime-main.8e015eaa.js.map",
     "static/css/2.3e71eac9.chunk.css": "/monday-app/static/css/2.3e71eac9.chunk.css",
     "static/js/2.5e61443e.chunk.js": "/monday-app/static/js/2.5e61443e.chunk.js",
     "static/js/2.5e61443e.chunk.js.map": "/monday-app/static/js/2.5e61443e.chunk.js.map",
     "index.html": "/monday-app/index.html",
-    "precache-manifest.698eb60337675656211ddead78cea357.js": "/monday-app/precache-manifest.698eb60337675656211ddead78cea357.js",
+    "precache-manifest.2d74d603386e56ff587ad1112b2f5999.js": "/monday-app/precache-manifest.2d74d603386e56ff587ad1112b2f5999.js",
     "service-worker.js": "/monday-app/service-worker.js",
     "static/css/2.3e71eac9.chunk.css.map": "/monday-app/static/css/2.3e71eac9.chunk.css.map",
     "static/css/main.4fd7d449.chunk.css.map": "/monday-app/static/css/main.4fd7d449.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3e71eac9.chunk.css",
     "static/js/2.5e61443e.chunk.js",
     "static/css/main.4fd7d449.chunk.css",
-    "static/js/main.bb3d0511.chunk.js"
+    "static/js/main.b1bfe153.chunk.js"
   ]
 }
