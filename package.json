@@ -9,7 +9,9 @@
     "server": "react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "stop": "kill-port 8301 && kill-port 4049 && kill-port 4040"
+    "stop": "kill-port 8301 && kill-port 4049 && kill-port 4040",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
