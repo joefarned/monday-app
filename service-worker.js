@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/monday-app/precache-manifest.7b3d29abe3e0ff6eb5f8e09d762c9b8a.js"
+  "/monday-app/precache-manifest.fff6a2e5c218cb21f6a2a0c53eb9576f.js"
 );
 
 self.addEventListener('message', (event) => {
