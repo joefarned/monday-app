@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6cb253683ee9f50612047bddf901ee8b",
+    "revision": "b080075bb9df5d305e6da7233032e945",
     "url": "/monday-app/index.html"
   },
   {
-    "revision": "33f771b7ebd223b0a04e",
+    "revision": "62635523a8843b83b48f",
     "url": "/monday-app/static/css/2.3e71eac9.chunk.css"
   },
   {
-    "revision": "5225d7961c5d611e9031",
+    "revision": "c3ac6356fc56426215a2",
     "url": "/monday-app/static/css/main.4fd7d449.chunk.css"
   },
   {
-    "revision": "33f771b7ebd223b0a04e",
-    "url": "/monday-app/static/js/2.bf96c7ce.chunk.js"
+    "revision": "62635523a8843b83b48f",
+    "url": "/monday-app/static/js/2.5e61443e.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/monday-app/static/js/2.bf96c7ce.chunk.js.LICENSE.txt"
+    "url": "/monday-app/static/js/2.5e61443e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5225d7961c5d611e9031",
-    "url": "/monday-app/static/js/main.5635b7ab.chunk.js"
+    "revision": "c3ac6356fc56426215a2",
+    "url": "/monday-app/static/js/main.d16ec93d.chunk.js"
   },
   {
     "revision": "4a40a92adbc6eb6f6c60",
