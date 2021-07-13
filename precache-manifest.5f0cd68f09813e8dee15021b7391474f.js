@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "950bfb65ad82a3e276e7ab9df8d66a4e",
+    "revision": "84c2df9bcf83e886d15e1e6ab5196804",
     "url": "/monday-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monday-app/static/css/2.3e71eac9.chunk.css"
   },
   {
-    "revision": "7559c1d61abf211da1dc",
+    "revision": "288d62f563f6e65591da",
     "url": "/monday-app/static/css/main.4fd7d449.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monday-app/static/js/2.5e61443e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7559c1d61abf211da1dc",
-    "url": "/monday-app/static/js/main.dfce3571.chunk.js"
+    "revision": "288d62f563f6e65591da",
+    "url": "/monday-app/static/js/main.0cfd3d95.chunk.js"
   },
   {
     "revision": "4a40a92adbc6eb6f6c60",
